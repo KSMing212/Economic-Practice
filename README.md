@@ -167,15 +167,6 @@ cl /EHsc /O2 /Fe:equilibrium_simulator.exe main.cpp
 
 ---
 
-## 作者
-
-**张津铭 (Zhang Jinming)**
-
-- 上海财经大学 经济学院
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
 ## 许可
 
 MIT License — 自由使用、修改与分发。
